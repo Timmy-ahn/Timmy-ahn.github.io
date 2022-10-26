@@ -1,7 +1,7 @@
-title:            Slate+Simple Jekyll Theme
-description:      Your site description...
-copyright:        Your Name
-url: # add your custom site url (format: https://example.com)
+title:            Timmy's Digital Marketing
+description:      디지털 마케팅 이야기
+copyright:        Timmy.Ahn
+url: https://digitimmy.com
 
 
 future:      false  # publish future dated posts --  true, false (default)
